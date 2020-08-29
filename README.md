@@ -7,3 +7,12 @@ The core business of a financial institution can be broadly classified as lendin
 There is a stiff competition among the financial institutions/banks in increasing the customer base in their retail banking segment. Along with offering innovative products to the public, a huge amount of money is spent on marketing their products. The term deposit is very important among the diverse range of products and services offered by banks in retail banking segment. With advancement in data science and machine learning and availability of data, most banks are adapting to a data-driven decision. The dataset here consists of direct marketing by contacting the clients and assessing the success rate of sales made.
 
 In this project, we apply machine learning algorithms to build a predictive model of the data set to provide a necessary suggestion for marketing campaign team. The goal is to predict whether a client will subscribe a term deposit (variable y) with the help of a given set of dependent variables. This is a real dataset collected from a Portuguese bank that used its own contact-center to do direct marketing campaigns to motivate and attract the clients for their term deposit scheme to enhance the business.
+
+## Running the code 
+
+For the notebook, all you need is to upload the csv file to your working environment and execute the cells.
+
+For the python files:
+* clone the repo.
+* Pip install the requirements file.
+* On the terminal, run the following command to execute and get the predictions into a csv file: python main.py 'file path'
